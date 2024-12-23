@@ -248,7 +248,7 @@ header {
       > use:nth-child(4) {
         animation-delay: -5s;
         animation-duration: 20s;
-        fill: var(--main-bg-color);
+        fill: var(--svg-bg-color);
       }
     }
   }

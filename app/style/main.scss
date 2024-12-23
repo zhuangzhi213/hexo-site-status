@@ -4,6 +4,7 @@
   --mian-border-color: rgba(255, 255, 255, 0.09);
   --main-box-shadow: rgba(0, 0, 0, 0.1);
   --cover-fill-color: 247, 247, 247;
+  --svg-bg-color: #f6f8fa;
   // 背景
   --loading-cover: radial-gradient(circle, #00c6ff, #0072ff, #00d2ff, #00b0ff);
   --error-cover: radial-gradient(circle, #ff4b5c, #ff2a3b, #ff6f5e, #f15239);
@@ -23,6 +24,7 @@
     --mian-border-color: rgba(0, 0, 0, 0.1);
     --cover-fill-color: 36, 36, 36;
     --cover-filter: brightness(80%);
+    --svg-bg-color: #242424;
   }
 }
 
